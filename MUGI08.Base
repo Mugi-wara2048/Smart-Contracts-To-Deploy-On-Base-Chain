@@ -2,5 +2,5 @@
 pragma solidity ^0.8.20;
 
 contract C8 {
-    uint public x = 8;
+    uint public x = 108;
 }
